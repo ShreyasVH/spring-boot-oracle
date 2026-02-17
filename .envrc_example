@@ -1,0 +1,13 @@
+# maven path
+export PATH=
+
+# java path
+export PATH=
+
+export PORT=
+
+export ORACLE_IP=
+export ORACLE_PORT=
+export ORACLE_PDB=
+export ORACLE_USERNAME=
+export ORACLE_PASSWORD=
