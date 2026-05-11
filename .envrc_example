@@ -3,6 +3,7 @@ export PATH=
 
 # java path
 export PATH=
+export JAVA_HOME=
 
 export PORT=
 
@@ -11,3 +12,8 @@ export ORACLE_PORT=
 export ORACLE_PDB=
 export ORACLE_USERNAME=
 export ORACLE_PASSWORD=
+export ORACLE_USERNAME_ADMIN=
+export ORACLE_PASSWORD_ADMIN=
+
+# sqlcl 25.4.1.022.0618 path
+export PATH=
